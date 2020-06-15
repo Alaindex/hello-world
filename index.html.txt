@@ -9,6 +9,8 @@
 <body>
   ...
   <h1> Test modif master branch </h1>
+  <h2> Add line in test_branch </h2>	
+  <h3> Add line in master branch </h3>
   ...
 </body>
 </html>
